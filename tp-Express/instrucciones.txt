@@ -1,0 +1,4 @@
+en la carpeta server 
+npm install
+npm run dev
+se va a ejecutar en http://localhost:3000
